@@ -10,7 +10,7 @@ g.roma@hud.ac.uk
 
 ## Supplementary Material
 
-* __Code:__ (to appear)
+* __Code:__ https://github.com/flucoma/LVA-ICA-2018/
 * __Demos:__ http://www.flucoma.org/LVA-ICA-2018/
 
 
